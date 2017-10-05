@@ -26,7 +26,7 @@ nav ul {
   background-color: #b58900;
 }
 
-.dfn + strong:nth-child(2) {
+p + strong {
   color: #fff;
 }
 
@@ -35,18 +35,22 @@ a:not(.no-highlight) {
 }
 
 [rel="external"] {
-  background-color: #657ba3;
+  background-color: #2694d8;
 }
 
 ol li:first-of-type {
   color: #719e47;
 }
 
-#types li:nth-child(odd) {
+ol li:last-of-type {
+  color: #2aa198;
+}
+
+.types li:nth-child(odd) {
   background-color: #657ba3;
 }
 
-#types li:nth-child(even) {
+.types li:nth-child(even) {
   background-color: #586e75;
 }
 
