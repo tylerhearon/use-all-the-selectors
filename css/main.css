@@ -23,7 +23,7 @@ nav ul {
 }
 
 .wrapper > .dfn {
-  background-color: #2694d8;
+  background-color: #b58900;
 }
 
 .dfn + strong:nth-child(2) {
@@ -39,7 +39,7 @@ a:not(.no-highlight) {
 }
 
 ol li:first-of-type {
-  color: #2aa198;
+  color: #719e47;
 }
 
 #types li:nth-child(odd) {
